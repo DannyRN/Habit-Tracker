@@ -4,19 +4,12 @@ The project is a habit tracker app that also has functions of a social network. 
 
 There are graphs showing your progress, both in the current week and across the last seven natural days.
 
-## About us
-
-We are a team of three students fully invested in a Web Development bootcamp in Barcelona. Our names are Camila Buldin, Lisa Schwetlick and Raquel Barrio.
 
 ![Project Image](https://res.cloudinary.com/dqzjo5wsl/image/upload/v1689328762/cheqq_valjxz.png "Project Image")
 
 ## Deployment
 
 You can check the app fully deployed [here](https://cheqq.fly.dev/).
-
-## Work structure
-
-We used Discord to send us any interesting links and keep each other posted about any news, but mainly we organised everything face to face.
 
 ## Installation guide
 
@@ -108,12 +101,6 @@ private: boolean
 |  GET   |/grouphabit/:habitId|         let { habitId } = req.params        |          Shows group shared habit         |
 |  POST  |  /habits/:habitId  |       let habitId = req.params.habitId      |Updates habit as completed for current date|
 
-## API
 
-This project mimics an API through an internal route so that we can fetch the json data through axios and display it through a chart.js graph.
-
-## Nodemailer
-
-We use nodemailer for sending an email welcoming each user after signup, and also safe password retrieval is thoroughly implemented thanks to email sending.
 
 ---
