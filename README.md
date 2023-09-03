@@ -73,7 +73,7 @@ private: boolean
 
 ## Routes
 
-| Metodo | endPoint           |                Requiere                     |                  Accion                   |
+| Method | endPoint           |                Requirement                     |                  Action                   |
 | :----: | :----------------: | :-----------------------------------------: | :---------------------------------------: |
 |  GET   |     /              |                                             |               Loads homepage              |
 |  GET   |  /signup           |                                             |               Loads Sign Up               |
