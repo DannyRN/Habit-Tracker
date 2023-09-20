@@ -9,7 +9,8 @@ There are graphs showing your progress, both in the current week and across the 
 
 ## Deployment
 
-You can check the app fully deployed [here](https://cheqq.fly.dev/).
+You can check the app fully deployed from the below link:
+https://cheqq.fly.dev
 
 ## Installation guide
 
